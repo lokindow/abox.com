@@ -1,1 +1,1 @@
-<div class =' abs alphaw1 fblack hfull wfull fwhite tocenter'>Seja bem vindo</div>
+<div class =' abs bblue hfull wfull fwhite tocenter'>Seja bem vindo</div>

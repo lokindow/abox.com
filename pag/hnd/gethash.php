@@ -1,5 +1,1 @@
-<?php
-
-    echo md5(uniqid(rand()));
-
-?>
+<?php echo md5(uniqid(rand())); ?>

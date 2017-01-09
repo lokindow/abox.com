@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="400"
+   viewBox="0 0 640 400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5678"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5680" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="116.32021"
+     inkscape:cy="-24.472522"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     width="640in"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.362)">
+    <circle
+       style="fill:#ff0000;fill-opacity:0;stroke:#007300;stroke-width:1.99676323;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality"
+       id="path4218"
+       cx="320"
+       cy="852.362"
+       r="319.00162" />
+    <circle
+       style="fill:#000000;fill-opacity:0;stroke:#007300;stroke-width:0.93598276;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality"
+       id="path4218-5"
+       cx="320"
+       cy="852.362"
+       r="149.53201" />
+    <rect
+       style="fill:#ff8c00;fill-opacity:0;stroke:#ff8c2c;stroke-width:1.42790294;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5715"
+       width="0.57209712"
+       height="338.57211"
+       x="320.71393"
+       y="683.07599" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0;stroke:#ff8c2c;stroke-width:0.33764708;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5717"
+       width="599.66235"
+       height="1.6623529"
+       x="20.168821"
+       y="850.53082" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:38.24473953px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#007300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="287.64789"
+       y="691.14648"
+       id="text5719"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96421063,1.0371178)"><tspan
+         sodipodi:role="line"
+         id="tspan5721"
+         x="287.64789"
+         y="691.14648"
+         style="font-weight:bold;fill:#007300;fill-opacity:1;">SKN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:80.96822357px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="14.121864"
+       y="848.41736"
+       id="text5723"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0206688,0.97974975)"><tspan
+         sodipodi:role="line"
+         id="tspan5725"
+         x="14.121864"
+         y="848.41736"
+         style="font-weight:bold;fill:#ff8c00;fill-opacity:1">DIFERENCIAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:55.18208694px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#007300;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="186.61162"
+       y="951.19635"
+       id="text5727"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0434211,0.95838585)"><tspan
+         sodipodi:role="line"
+         id="tspan5729"
+         x="186.61162"
+         y="951.19635"
+         style="font-weight:bold;fill:#007300;fill-opacity:1;">ENGENHARIA</tspan></text>
+    <rect
+       style="fill:#007300;fill-opacity:1;stroke:#007300;stroke-width:0.53063351;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5739"
+       width="319.46936"
+       height="19.469366"
+       x="0.26531675"
+       y="942.62732" />
+    <rect
+       style="fill:#007300;fill-opacity:1;stroke:#007300;stroke-width:0.53063351;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5739-3"
+       width="319.46936"
+       height="19.469366"
+       x="320.26532"
+       y="732.62732" />
+  </g>
+</svg>

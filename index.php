@@ -18,17 +18,20 @@ if(!isset($_SESSION['skn_user'])){ if(isset($_COOKIE['skn_user'])){ $_SESSION['s
 	<body>
 		<! HEAD > <header></header>
 		<! HOME > <home></home>
-		<! POPS > <popup class='wx pin blck'style='z-index:997'></popup>
-		<! MSGS > <message class='wx pin blck'style='z-index:998'></message>
+		<! POPS > <popup></popup>
+		<! MSGS > <message></message>
         <! LOAD > <loading></loading>
 	</body>
 
 	<!-- HANDLERS -->
 	<script type='text/javascript'src='fn.js'></script>
 	<script>
-		$(window).resize(function(){ adapt(); });
+		$(window).resize(function(){ adjust(); });
 		$(document).ready(function(){std_require_page("head",HEAD);});
-		HOME.css({'top':HEAD.height()-24});
+		setTimeout(function(){ 
+            HOME.css({'top':HEAD.height()+5});
+            $('popup,message,loading').hide();
+        },400);
 	</script>
 
 
